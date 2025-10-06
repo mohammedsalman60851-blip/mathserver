@@ -99,7 +99,7 @@ TEMPLATE.HTML
 ```
 # SERVER SIDE PROCESSING:
 
-
+<img width="1460" height="245" alt="Screenshot 2025-10-06 210115" src="https://github.com/user-attachments/assets/6c0451d9-8029-447a-b26f-1437dff87c44" />
 
 
 # HOMEPAGE:
